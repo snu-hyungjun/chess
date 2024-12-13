@@ -37,7 +37,13 @@ ChessPiece* ChessBoard::operator[](string s)
 {
     // TODO: implement operator[]
     int col = s[0] - 'a';
-    int row = height - (s[1] - '0');
+
+    // 한자리인지 두자리인지 확인
+    if (s.length() == 3) { 
+        row = height - stoi(s.substr(1, 2));
+    } else { 
+        row = height - (s[1] - '0');
+    }
 
     return tiles[row][col];
 }
