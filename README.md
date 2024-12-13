@@ -19,4 +19,17 @@ checking the state of given chessboard
    2, 3, 4 : w or b
 5. board limitation
    - there should be only one white or black king
-   - board size could
+   - board size could be a number between 1~99
+   - can use infinite amount of pieces except king
+   - p,P = Qawn, q,Q = Queen, n,N = Knight, r,R = Rook, b,B = Bishop, k,K = King, upper case = White, lower case = Black
+   - pawn does not turn into queen when arrived at the end of the board
+
+6. board example --> 8 8 initial board of original chess
+rnbqkbnr
+pppppppp
+........
+........
+........
+........
+PPPPPPPP
+RNBQKBNR
