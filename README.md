@@ -25,7 +25,6 @@ checking the state of given chessboard
    - pawn does not turn into queen when arrived at the end of the board
 
 6. board example --> 8 8 initial board of original chess
-
 rnbqkbnr  
 pppppppp  
 ........  
