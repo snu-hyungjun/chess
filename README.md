@@ -24,7 +24,7 @@ checking the state of given chessboard
    - p,P = Qawn, q,Q = Queen, n,N = Knight, r,R = Rook, b,B = Bishop, k,K = King, upper case = White, lower case = Black
    - pawn does not turn into queen when arrived at the end of the board
 
-*Board example  
+*Board example 
 '''
 rnbqkbnr  
 pppppppp  
@@ -34,3 +34,4 @@ pppppppp
 ........  
 PPPPPPPP  
 RNBQKBNR  
+'''
