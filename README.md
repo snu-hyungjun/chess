@@ -25,9 +25,10 @@ checking the state of given chessboard
    - pawn does not turn into queen when arrived at the end of the board
 
 *Board example  
-'rnbqkbnr' 
-'pppppppp'  
-'........'  
+'''
+rnbqkbnr  
+pppppppp  
+........  
 ........  
 ........  
 ........  
