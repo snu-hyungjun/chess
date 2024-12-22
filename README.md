@@ -4,7 +4,7 @@ checking the state of given chessboard
 2. input 파일에    
    problem_id   
    problem_specification  
-   (chessboard row col -> row 한칸 띄고 col 입력 (ex)8 8)  
+   (chessboard row col -> row 한칸 띄고 col 입력 ((ex)8 8))  
    (chessboard)  
    을 입력한다                                                               
 3. problem id   
