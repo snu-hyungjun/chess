@@ -1,12 +1,12 @@
 # chess
 checking the state of given chessboard
-1. 전체 파일은 명령어 혹은 /chess로 컴파일 가능
+1. 전체 파일은 전체 컴파일 명령어 혹은 /chess로 컴파일 가능
 2. input 파일에
    problem_id
    problem_specification
    (chessboard row col -> row 한칸 띄고 col 입력 (ex)8 8)
    (chessboard)
-   을 입력한다
+   을 입력한다                                                             
 3. problem id 
     0 : print board
     1 : print reachable point
@@ -35,3 +35,7 @@ pppppppp
 PPPPPPPP  
 RNBQKBNR  
 ```
+*problem id 1 specification
+ - Print o where the chess piece can reach the empty tile.
+ - Print x where the chess piece can reach and attack the enemy piece.
+ - print the specified chess piece
