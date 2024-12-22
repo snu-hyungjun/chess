@@ -21,7 +21,7 @@ checking the state of given chessboard
    - there should be only one white or black king   
    - board size could be a number between 1~99  
    - can use infinite amount of pieces except king  
-   - p,P = Qawn, q,Q = Queen, n,N = Knight, r,R = Rook, b,B = Bishop, k,K = King, upper cas  = White, lower case = Black  
+   - p,P = Qawn, q,Q = Queen, n,N = Knight, r,R = Rook, b,B = Bishop, k,K = King, upper case = White, lower case = Black  
    - pawn does not turn into queen when arrived at the end of the board  
 
 *Board example  
