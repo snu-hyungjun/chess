@@ -26,6 +26,8 @@ checking the state of given chessboard
 
 6. board example --> 8 8 initial board of original chess
 rnbqkbnr
+
+
 pppppppp
 ........
 ........
